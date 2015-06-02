@@ -1,5 +1,5 @@
 # usage
-`apwapd < pd.txt`
+`apwapd < bp.txt`
 
 # data structure
 
